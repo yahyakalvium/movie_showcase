@@ -4,7 +4,7 @@ A React app showcasing my favourite movies built with Vite
 
 ## Links
 - **GitHub Repository:** [https://github.com/waseem-pp/movie-showcase.git]
-- **Live Website:** []
+- **Live Website:** [https://movieshowcasewaseem.netlify.app/]
 
 ## Run Locally
 1. Clone the repository
